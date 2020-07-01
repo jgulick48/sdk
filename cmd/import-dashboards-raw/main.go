@@ -38,7 +38,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/grafana-tools/sdk"
+	"github.com/jgulick48/sdk"
 )
 
 func main() {

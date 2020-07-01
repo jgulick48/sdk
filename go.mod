@@ -1,4 +1,4 @@
-module github.com/grafana-tools/sdk
+module github.com/jgulick48/sdk
 
 go 1.13
 

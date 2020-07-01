@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/grafana-tools/sdk"
+	"github.com/jgulick48/sdk"
 )
 
 func getClient(t *testing.T) *sdk.Client {
